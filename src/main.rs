@@ -3,6 +3,7 @@ use crate::mp4::bad_apple_frames;
 
 mod mp4;
 mod event_loop;
+mod notes;
 
 const FRAME_RATE: usize = 30;
 const HEIGHT: usize = 360;
